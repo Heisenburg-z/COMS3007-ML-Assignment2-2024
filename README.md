@@ -1,6 +1,4 @@
-Here's the enhanced GitHub README.md with detailed setup instructions and the corresponding JSON project entry:
 
-```markdown
 # COMS 3007: Machine Learning Assignment 2 (2024)
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
@@ -110,34 +108,3 @@ Common issues and solutions:
    → Ensure `classifyall.py` matches template requirements exactly
 
 *University of the Witwatersrand, Johannesburg - 2024*
-```
-
-And here's the updated JSON project entry with containerization details:
-
-```javascript
-{
-  title: "Constrained ML Classification System",
-  description: "Top-performing classification system developed under strict containerized environment constraints. Achieved top 5% leaderboard rank using hybrid ensemble architecture within limited library versions.",
-  githubLink: "https://github.com/Heisenburg-z/COMS3007-ML-Assignment2-2024",
-  liveDemo: null,
-  color: "text-fuchsia-500",
-  accentColor: "bg-fuchsia-500",
-  image: "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Y29udGFpbmVyaXplZCUyMGNvZGV8ZW58MHx8MHx8fDA%3D",
-  tech: [
-    "Python",
-    "scikit-learn",
-    "PyTorch",
-    "Apptainer",
-    "Ensemble Learning",
-    "Feature Engineering"
-  ],
-  status: "Academic Project (Top 5% Performance)",
-  constraints: [
-    "numpy==1.26.4",
-    "scikit-learn==1.4.2",
-    "pandas==2.2.2",
-    "torch==2.3.0+cpu",
-    "tensorflow-cpu==2.16.1"
-  ]
-}
-```
