@@ -109,13 +109,6 @@ Common issues and solutions:
 3. **Evaluation script failures**  
    → Ensure `classifyall.py` matches template requirements exactly
 
-## 📜 Academic Integrity
-Developed by:
-- [Your Name] (StudentID)
-- [Teammate 1] (StudentID)
-- [Teammate 2] (StudentID)
-- [Teammate 3] (StudentID)
-
 *University of the Witwatersrand, Johannesburg - 2024*
 ```
 
